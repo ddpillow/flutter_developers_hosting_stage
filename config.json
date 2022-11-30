@@ -1,9 +1,9 @@
 {
-    "revision": 1,
+    "revision": 2,
     "ios": {
-        "version": "v3.0.0"
+        "version": "1.0.0"
     },
     "android": {
-        "version": "v3.0.0"
+        "version": "1.0.0"
     }
 }
