@@ -2,4 +2,4 @@
 
 [config.json](http://ddpillow.github.io/flutter_developers_hosting_stage/config.json)
 
-[channeltalk](http://ddpillow.github.io/flutter_developers_hosting_stage/channeltalk.html)
+[channeltalk](https://ddpillow.github.io/flutter_developers_hosting_stage/channeltalk.html)
